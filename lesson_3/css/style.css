@@ -1,0 +1,88 @@
+.header{
+	color: crimson;
+}
+
+.header p{
+	color: black;
+}
+
+.h2{
+	color: brown;
+}
+
+.h2 .subtitle{
+	color: cadetblue;
+}
+
+.human{
+	color: crimson;
+}
+
+.human p{
+	color: cyan;
+}
+
+span{
+	color: darkblue;
+}
+
+p{
+	color: darkorchid;
+}
+
+.whi-we{
+	color: darkslategray;
+}
+
+nav > div{
+	color: yellowgreen;
+}
+
+.whiy-we__lorem{
+	color: blue;
+}
+
+.whiy-we__lorem + li{
+	color: tomato;
+}
+
+.whiy-we__lorem2{
+	color: teal;
+}
+
+.whiy-we__lorem2 ~ li{
+	color: gray;
+}
+
+#fackt{
+	color: goldenrod;
+}
+
+.view{
+	color: forestgreen;
+}
+
+.view>div{
+	color: red;
+}
+
+.mama p{
+	color: green;
+}
+
+.mama > p{
+	color: hotpink;
+}
+
+.million,
+.hunt{
+	color: indigo;
+}
+
+.text{
+	color: lawngreen;
+}
+
+.info{
+	color: red;
+}
